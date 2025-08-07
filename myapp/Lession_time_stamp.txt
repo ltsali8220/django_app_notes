@@ -1,0 +1,141 @@
+
+Timestamps:
+00:00 Intro
+02:51 Setup workspace
+        environment
+        PIP
+
+11:02 Project Structure
+
+        asgi.py
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+        __pycache__
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basic Topics:
+14:30 Creating Django Apps
+
+
+
+
+
+
+18:09 Creating First View
+
+
+
+
+
+
+
+
+28:23 More URLs
+30:39 Dynamic URL segments
+
+
+
+
+
+
+36:14 Redirects
+
+
+
+
+
+
+
+
+40:43 Reverse and Named URLS
+44:33 Returning HTML
+51:13 Static Files
+58:48 Creating Layout
+
+
+
+
+
+01:07:34 Include Partial Template
+01:11:24 Variable Interpolation
+01:15:33 Filters
+01:21:53 Django VScode Extension
+01:23:37 For Tag
+01:30:48 If Tag
+01:35:15 URL Tag and Dynamic URLs
+01:42:23 Custom 404 Page
+01:54:33 Building Post detail page and using Logger
+02:05:57 Connecting MySQL Database
+02:13:14 Creating Model
+02:20:50 Creating Migrations
+02:32:10 Inserting Data
+02:45:00 Getting Posts Data
+02:48:46 Getting Data by Id
+02:55:08 Handling Error
+03:00:02 Generating Slug for Post
+03:07:21 Get Post by Slug
+03:09:32 Creating Category Model for Post
+03:15:37 Many to One Relationship
+03:22:56 Deleting and Recreating Tables
+03:28:00 Show Category in Template
+03:30:03 Showing Related Posts
+03:37:45 Pagination
+03:52:24 Working with Contact Form
+04:06:41 Show Validation Errors
+04:18:25 Admin Setup
+04:23:10 Register Models to Admin
+04:26:01 Customize Admin Interface
+04:30:55 Dynamic Content for About us page
+04:42:20 What is Next ?
+
+Advanced Topics:
+04:49:33 Register View
+04:57:27 Regisnter Form
+05:00:55 Using Model Form
+05:12:41 Show Old Values using Form
+05:16:05 Password Hashing
+05:21:02 Custom Validation & Non Field Errors
+05:30:23 Showing Success Message
+05:35:45 Login View
+05:38:51 Login Form
+05:45:49 Handling Login Process
+05:53:52 Creating Dashboard View
+05:58:55 Redirect to Login after Register
+06:02:39 Show Authenticated & Unauthenticated Links
+06:07:31 Logout
+06:10:19 Redirect Authenticated User using Middleware
+06:21:17 Redirect UnAuthenticated User using Middleware
+06:26:28 Forgot Password
+06:30:30 Handling Forgot Password Form
+06:36:15 Sending Reset Password Email
+06:44:08 Reset Password Email Template
+06:52:30 Sending Email
+06:55:29 Email Configuration
+07:03:51 Reset Password
+07:25:14 Listing User Posts
+07:39:31 Creating New Post
+07:47:06 Handling New Post Form
+08:09:00 Image Upload
+08:23:39 Showing Post Image
+08:36:01 Edit & Update Post
+08:56:53 Delete Post
+09:17:16 Login Required Pages
+09:29:07 Creating Permissions and Groups using Signals
+09:52:38 Add User to Group after Register
+09:58:03 Displaying User Groups
+10:03:02 Handling Permissions in Views and Templates
+10:11:50 Using Permission Required Decorator & Finishing the Project
+10:22:45 conclusion

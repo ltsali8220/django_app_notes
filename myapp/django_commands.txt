@@ -1,0 +1,12 @@
+
+django-admin --version
+
+django-admin startproject myapp
+
+python .\manage.py startapp blog
+
+{% load static %}
+
+"{%static 'blog/style.css'%} "
+
+
