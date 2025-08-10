@@ -10,3 +10,12 @@ python .\manage.py startapp blog
 "{%static 'blog/style.css'%} "
 
 
+{% extends "blog/base.html" %}
+
+{% block content %}
+
+page's code
+
+{% endblock }
+
+
