@@ -90,15 +90,52 @@ Basic Topics:
 
 
 01:21:53 Django VScode Extension
+
+
+
 01:23:37 For Tag
+
+
+
 01:30:48 If Tag
+
+
+
 01:35:15 URL Tag and Dynamic URLs
+
+
+
 01:42:23 Custom 404 Page
-01:54:33 Building Post detail page and using Logger
+
+        Error View
+
+
+
+01:54:33 Building Post detail page and using Logger   
+
+        need to as master in my  Django
+        
+
 02:05:57 Connecting MySQL Database
+
+
+
+
+
 02:13:14 Creating Model
+
+
 02:20:50 Creating Migrations
+
+
+
+
+
 02:32:10 Inserting Data
+
+
+
+
 02:45:00 Getting Posts Data
 02:48:46 Getting Data by Id
 02:55:08 Handling Error
