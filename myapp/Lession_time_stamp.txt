@@ -144,6 +144,9 @@ Basic Topics:
 03:09:32 Creating Category Model for Post
 03:15:37 Many to One Relationship
 03:22:56 Deleting and Recreating Tables
+
+
+
 03:28:00 Show Category in Template
 03:30:03 Showing Related Posts
 03:37:45 Pagination
